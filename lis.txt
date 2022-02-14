@@ -2,5 +2,5 @@ poema da lis
 
 Aqui é o poeminha da lis
 
-name: "***REMOVED***"
-password: "***REMOVED***"
+name: "123455667"
+password: "87654321"
