@@ -10,7 +10,7 @@ password: ""
 update jaun
 
 
-ser:***REMOVED***
+ser:
 
 
-newLis: GUUajkdgfJJa12jr&***REMOVED***
+newLis: 
