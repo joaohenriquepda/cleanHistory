@@ -5,7 +5,7 @@ name: 123455667
 password: ""
 
 name: "123455667"
-password: ***REMOVED***
+password: 
 
 update jaun
 

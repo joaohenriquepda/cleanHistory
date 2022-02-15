@@ -3,5 +3,5 @@ poema da lis
 Aqui é o poeminha da lis
 
 name: "123455667"
-password: ***REMOVED***
+password: 
 update lis
