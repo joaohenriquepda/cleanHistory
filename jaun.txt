@@ -2,12 +2,12 @@ poeminha do jaun
 esse é um poeminha legal
 
 name: 123455667
-password: "Aw12fasJjbJJHSFs33305-=d2"
+password: ""
 
 name: "123455667"
-password: "Aw12fasJjbJJHSFs33305-=d2"
+password: ""
 
 update jaun
 
 
-será: #12fasJjbJJHSFs33305-=d2
+será: 
